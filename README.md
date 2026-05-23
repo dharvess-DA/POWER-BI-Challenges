@@ -162,7 +162,7 @@ One-to-Many Relationship
 The dashboard displays a high-level overview of Year-to-Date (YTD) and Month-to-Date (MTD) performance across sales revenue, volume, and pricing, alongside categorical breakdowns (Model, Color, Payment Method, and Geography).While total historic sales from 2022 to 2024 showed aggressive, steady growth, the business is currently facing an operational slowdown in 2025, falling short of the previous year’s record highs. Despite the drop in volume, pricing strategies remain highly stable.
 
 ## 🔗 GitHub Repository
-[Project Repository Link](https://github.com/POWER-BI-Challenges)
+[Project Repository Link](https://github.com/dharvess-DA/POWER-BI-Challenges)
 
 
 

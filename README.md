@@ -136,7 +136,7 @@ Sales is your Fact Table. It sits at the center of the model and records the act
 
 ## Dimension Tables
 
- These following tables are  Dimension Tables. links to the sales table.
+ These following tables are  Dimension tables links to the sales table.
 
   - Customers: Contains demographic and descriptive data about the people buying the cars (Age, City, Email, First Name, Gender, Job Role, Last Name).
 

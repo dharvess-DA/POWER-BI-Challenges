@@ -136,13 +136,13 @@ Sales is your Fact Table. It sits at the center of the model and records the act
 
 ## Dimension Tables
 
- These following tables are  Dimension Tables. They provide context (the "who, what, and when") to the numbers in the sales table.
+ These following tables are  Dimension Tables. links to the sales table.
 
- Customers: Contains demographic and descriptive data about the people buying the cars (Age, City, Email, First Name, Gender, Job Role, Last Name).
+  - Customers: Contains demographic and descriptive data about the people buying the cars (Age, City, Email, First Name, Gender, Job Role, Last Name).
 
- Cars: Contains the specific details about the vehicles being sold (Brand, Model, Color, Engine_Type, Price, Transmission, Status, Quantity_In_Stock).
+  - Cars: Contains the specific details about the vehicles being sold (Brand, Model, Color, Engine_Type, Price, Transmission, Status, Quantity_In_Stock).
 
- Calendar Table: A dedicated date table used to handle time intelligence functions, allowing you to filter or group sales by Date, Week, or Year.
+  - Calendar Table: A dedicated date table used to handle time intelligence functions, allowing you to filter or group sales by Date, Week, or Year.
 
 
 

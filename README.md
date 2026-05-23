@@ -152,7 +152,7 @@ One-to-Many Relationship
 
  - The asterisk (*) is on the Sales table side, meaning a single customer, car, or date can appear multiple times as multiple sales happen over time.
 
-## DashBoard
+## 📷 Dashboard 
 <img width="425" height="475" alt="image" src="Car sales Analysis.jpg" />   
 
 <img width="425" height="475" alt="image" src="Car Sales Details.jpg" /> 

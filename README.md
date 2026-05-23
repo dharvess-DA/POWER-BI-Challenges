@@ -130,7 +130,7 @@ Calendar Table (Created) (Distinct Sale Date using this table)
 
 In a star schema, data is split into a central table that holds measurable, quantitative data, surrounded by peripheral tables that hold descriptive attributes.Here is a detailed breakdown of how this model is structured and how the tables interact:
 
-1. Fact Table
+# Fact Table
 
 Sales is your Fact Table. It sits at the center of the model and records the actual business events (car sales).Foreign Keys contains Car_ID, Customer_ID, and a connection to the Calendar Table (likely via Sale_Date). These keys allow it to connect to the surrounding tables.Measures/Metrics: It holds the numerical values you want to aggregate, indicated by the sigma ($\sum$) icon, such as Quantity and Sale_Price.Attributes: It also tracks transactional details like Payment_Method, Sale_ID, and the Salesperson who made the sale.
 

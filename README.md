@@ -20,3 +20,15 @@ Cars.xls
  - Using find and replace Properly set the improper value Transmission Column.
 
  - Duplicate Car ID Removed using remove duplicates method
+
+ Sales.xls
+ 
+  - Sale Price Datatype changed
+
+Customer.xls
+
+ - Standardizing Last name Column Using Proper 
+
+ - Concatenate first name and last name and create a new column Name
+
+

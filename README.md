@@ -11,7 +11,7 @@ Car dealership aims to enhance sales performance tracking and analysis for price
 Design and develop interactive Car Sales Dashboard to visualize critical KPIs, enabling data-driven decision-making and understanding sales performance trends.
 
 
- ## 🎯 Data Pre-processing using Excel
+ ## 🎯 Data Pre-Processing using Excel
 
 Cars.xls
 

@@ -150,7 +150,14 @@ One-to-Many Relationship
 
  - The 1 is on the side of the Dimension tables (Customers, Cars, Calendar Table), meaning each ID or Date appears exactly once in that table (they are unique primary keys).
 
- - The asterisk (*) is on the Sales table side, meaning a single customer, car, or date can appear multiple times as multiple sales happen over time.    
+ - The asterisk (*) is on the Sales table side, meaning a single customer, car, or date can appear multiple times as multiple sales happen over time.
+
+## DashBoard
+<img width="425" height="475" alt="image" src="Car sales Analysis.jpg" />   
+
+<img width="425" height="475" alt="image" src="Car Sales Details.jpg" /> 
+
+
 
 
 

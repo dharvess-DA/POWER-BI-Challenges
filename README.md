@@ -8,7 +8,7 @@ Car dealership aims to enhance sales performance tracking and analysis for price
 
 ## 🎯 Objectives
 
-- Design and develop interactive Car Sales Dashboard to visualize critical KPIs, enabling data-driven decision-making and understanding sales performance trends.
+Design and develop interactive Car Sales Dashboard to visualize critical KPIs, enabling data-driven decision-making and understanding sales performance trends.
 
 
  ## 🎯 Data Pre-processing using Excel

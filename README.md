@@ -79,6 +79,52 @@ Chart Requirements:
 
   - Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, color,
     sales amount, and customer details
+
+Data Available
+    
+Cars Table
+
+ - Car id
+ - Brand
+ - Model
+ - Year
+ - Colour
+ - Engine Type
+ - Transmission
+ - Price
+ - Quantity in stock
+ - Status
+
+Customer Table
+
+ - Customer ID
+ - Name
+ - Gender 
+ - Age
+ - Job role
+ - Phone
+ - Email
+ - City
+ - State 
+ - Region
+   
+ Sales Table
+ 
+ - Sale id
+ - Customer ID
+ - Car ID
+ - Sales Date
+ - Quantity
+ - Sale Price
+ - Payment Method
+ - Salesperson
+
+Calendar Table (Created) (Distinct Sale Date using this table)
+
+ - Date
+ - Year
+ - Week
+
    
 
 

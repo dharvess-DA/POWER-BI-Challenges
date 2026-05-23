@@ -144,6 +144,14 @@ Sales is your Fact Table. It sits at the center of the model and records the act
 
   - Calendar Table: A dedicated date table used to handle time intelligence functions, allowing you to filter or group sales by Date, Week, or Year.
 
+# Relationships and Data Flow
+
+One-to-Many Relationship 
+
+ - The 1 is on the side of the Dimension tables (Customers, Cars, Calendar Table), meaning each ID or Date appears exactly once in that table (they are unique primary keys).
+
+ - The asterisk (*) is on the Sales table side, meaning a single customer, car, or date can appear multiple times as multiple sales happen over time.    
+
 
 
    

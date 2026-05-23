@@ -61,4 +61,24 @@ Cars Sold Analysis:
  
  - Difference between YTD Cars Sold and PTYD Cars Sold
 
+Chart Requirements:
+
+ - YTD Sales by Year - Display Bar Chart illustrating the Year for YTD sales. The X-axis should represent Sales, and the Y-axis should show the Year
+
+ - YTD Sales by Color - Present the contribution of various car colours to the YTD total sales through a pie chart.
+
+ - YTD Sales by Model - Visualize the distribution of YTD total sales across different Model using a Donut Chart.
+
+ - YTD Sales by State - YTD sales data based on different City using a map chart to visualize the sales distribution geographically.
+
+ - Model Wise Sales Trend - Tabular grid that displays the sales trend for each car model. The grid should showcase the Model name along with their YTD sales figures.
+
+ - YTD Sales Payment Method: Donut Chart illustrating the method of transaction based on YTD Sales.
+
+ - Using Slicers like brand, transmission, Engine type filtering specific brand, transmission related visualizations for faster decision making.
+
+  - Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, color,
+    sales amount, and customer details
+   
+
 

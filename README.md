@@ -16,6 +16,4 @@ Car dealership aims to enhance sales performance tracking and analysis for price
 - Cars.xls
 
 if Brand is Empty using find and replace fill the Brand using Model
-Using find and replace Properly set the improper value Transmission Column
-
-Duplicate Car ID Removed using remove duplicates method
+Using find and replace Properly set the improper value Transmission Column. Duplicate Car ID Removed using remove duplicates method

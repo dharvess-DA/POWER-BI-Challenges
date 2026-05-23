@@ -49,7 +49,7 @@ Average Price Analysis:
 
  - Growth in Average Price
 
- = Difference between YTD Average Price and PTYD Average Price
+  - Difference between YTD Average Price and PTYD Average Price
 
 Cars Sold Analysis:
 

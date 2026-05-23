@@ -144,7 +144,7 @@ Sales is your Fact Table. It sits at the center of the model and records the act
 
   - Calendar Table: A dedicated date table used to handle time intelligence functions, allowing you to filter or group sales by Date, Week, or Year.
 
-# Relationships and Data Flow
+## Relationships and Data Flow
 
 One-to-Many Relationship 
 

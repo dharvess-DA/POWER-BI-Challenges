@@ -31,4 +31,34 @@ Customer.xls
 
  - Concatenate first name and last name and create a new column Name
 
+Sales Overview:
+
+ - Year-to-Date (YTD) Total Sales 
+
+ - Month-to-Date (MTD) Total Sales
+
+ - Growth in Total Sales
+
+ - Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+
+Average Price Analysis:
+
+ - YTD Average Price
+
+ - MTD Average Price
+
+ - Growth in Average Price
+
+ = Difference between YTD Average Price and PTYD Average Price
+
+Cars Sold Analysis:
+
+ - YTD Cars Sold
+ 
+ - MTD Cars Sold
+ 
+ - Growth in Cars Sold
+ 
+ - Difference between YTD Cars Sold and PTYD Cars Sold
+
 

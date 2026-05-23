@@ -125,7 +125,8 @@ Calendar Table (Created) (Distinct Sale Date using this table)
  - Year
  - Week
    
- # Data Modelling
+## Data Modelling
+<img width="425" height="475" alt="image" src="Data Modelling.jpg" />
 
    
 

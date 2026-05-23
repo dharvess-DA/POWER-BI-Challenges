@@ -61,7 +61,7 @@ Cars Sold Analysis:
  
  - Difference between YTD Cars Sold and PTYD Cars Sold
 
-Chart Requirements:
+# Chart Requirements:
 
  - YTD Sales by Year - Display Bar Chart illustrating the Year for YTD sales. The X-axis should represent Sales, and the Y-axis should show the Year
 
@@ -80,7 +80,7 @@ Chart Requirements:
   - Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, color,
     sales amount, and customer details
 
-Data Available
+# Data Available
     
 Cars Table
 
@@ -124,6 +124,8 @@ Calendar Table (Created) (Distinct Sale Date using this table)
  - Date
  - Year
  - Week
+   
+ # Data Modelling
 
    
 
